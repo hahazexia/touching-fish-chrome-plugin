@@ -6,6 +6,9 @@
   "background": {
     "service_worker": "background.js"
   },
+  "host_permissions": [
+    "https://hahazexia.github.io/"
+  ],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
