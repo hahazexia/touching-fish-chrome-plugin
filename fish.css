@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "zqk";
+  src: url("zqk.ttf");
+}
+html, body {
+  width: 500px;
+  height: 500px;
+  font-weight: 600px;
+  font-family: zqk;
+  color: #333;
+  font-size: 20px;
+  background-color: #FAFAFA;
+  color: rgb(33, 74, 124);
+}
+
+.fish-box {
+  text-align: left;
+  padding: 10px;
+}
+
+.fish-box .title {
+
+}
